@@ -1,10 +1,10 @@
 # Attendance System using Face Recognition
 
 Developed Attendance System using Face Recognition technology to ensure accuracy and speed.
-∗ Software is integrated with the Django web framework and SQLite database to provide a complete package of full-stack python development.
-∗ It identifies a person with an accuracy of 99.38% .
-∗ The model initially starts with 2 training image per person with a prediction probability of 50% over 200 classes using SVM classifier .
-∗ Real-time addition of pictures of the person to the training dataset to improve its performance and accuracy.
+- Software is integrated with the Django web framework and SQLite database to provide a complete package of full-stack python development.
+- It identifies a person with an accuracy of 99.38% .
+- The model initially starts with 2 training image per person with a prediction probability of 50% over 200 classes using SVM classifier .
+- Real-time addition of pictures of the person to the training dataset to improve its performance and accuracy.
 
 # Screenshots
 ## Home Page
