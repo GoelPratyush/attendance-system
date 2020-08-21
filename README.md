@@ -5,3 +5,4 @@ It is a web application that can be used by the company to manage attendance of 
 
 # Screenshots
 ![GitHub Logo](/Screenshots/Screenshot from 2019-06-26 18-53-37.png)
+![alt text](https://github.com/GoelPratyush/attendance-system/blob/master/Screenshots/Screenshot%20from%202019-06-26%2018-53-37.png)
