@@ -4,3 +4,4 @@ This project is a POC application demonstrating the use of facial recognition fo
 It is a web application that can be used by the company to manage attendance of its employees. It supports admin and employee login. Admin is allowed to register new employees, add their photos to the training dataset, train the model and view attendance reports of all employees. Attendance can be filtered by date or employee. Employee is allowed to view his own attendance reports once he logs in.
 
 # Screenshots
+![GitHub Logo](/Screenshots/Screenshot from 2019-06-26 18-53-37.png)
